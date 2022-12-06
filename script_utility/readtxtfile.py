@@ -20,5 +20,5 @@ for line in lines:
 
 f.close()
 print(testscriptmethod)
-with open(r"login.py",'w', newline='') as file1:
+with open(r"/output_script/login.py",'w', newline='') as file1:
     file1.write(testscriptmethod)
