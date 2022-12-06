@@ -1,0 +1,17 @@
+
+@Login Test Case
+Open facebook url "www.facebook.com"
+Enter username "tester1" in "username_webelement"
+Enter username "password" in "pass_webelement"
+Click on "login" button
+Validate the home page with text "welcome to facebook" in "val_homepage_webelement"
+end
+
+@Home page Test Case
+Open facebook url "www.facebook.com"
+Enter username "tester1" in "username_webelement"
+Enter username "password" in "pass_webelement"
+Click on "login" button
+Validate the home page with text "welcome to facebook" in "val_homepage_webelement"
+Validate profile page
+end
