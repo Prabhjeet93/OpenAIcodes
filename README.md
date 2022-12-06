@@ -1,7 +1,7 @@
 # OpenAIcodes
 
 
-Write code to automate the automation testing.
+Write code to create test scripts from test cases automatically.
 1. you will write a test case, Code should read that test case and create a test script by calling corresponding methods.
 2. there will be rules to writing the test cases.
 
